@@ -1,9 +1,5 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license 
-<<<<<<< HEAD
-#lsj modify modify4
-=======
-#lsj modify modify2 modify3
->>>>>>> 8fe774914b3869b35639f7228cd08c1a67f94d7f
+# lisj new modify
 """
 Run inference on images, videos, directories, streams, etc.
 
